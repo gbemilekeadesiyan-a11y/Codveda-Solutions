@@ -6,7 +6,7 @@ Python projects completed during my internship at Codveda.
 
 | # | Project | 
 |---|---------|
-| 1 | [Project 1](./project-1/)
+| 1 | [Project 1]([./project-1/](https://github.com/gbemilekeadesiyan-a11y/Codveda-Solutions/tree/main/Simple%20Calculator))
 | 2 | [Project 2](./project-2/)
 | 3 | [Project 3](./project-3/) 
 
