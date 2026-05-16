@@ -4,11 +4,11 @@ Python projects completed during my internship at Codveda.
 
 ## Projects
 
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 1 | [Project 1](./project-1/) | Coming soon | 🔄 In Progress |
-| 2 | [Project 2](./project-2/) | Coming soon | 🔄 In Progress |
-| 3 | [Project 3](./project-3/) | Coming soon | 🔄 In Progress |
+| # | Project | 
+|---|---------|
+| 1 | [Project 1](./project-1/)
+| 2 | [Project 2](./project-2/)
+| 3 | [Project 3](./project-3/) 
 
 ## Stack
 Python · Data Analysis · Automation
