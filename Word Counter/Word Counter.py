@@ -1,6 +1,6 @@
 filename = input("Enter the filename: ")
 
-#Read File
+# Read File
 
 try:
     with open(filename, "r") as file:
